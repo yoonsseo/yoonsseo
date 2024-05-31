@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </div>  
 
 <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/GitHub-%2088FF.svg?style=flat-square&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">
 
 <div style="display: flex; align-items: center;">
