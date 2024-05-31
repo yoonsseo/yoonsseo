@@ -17,29 +17,32 @@ Here are some ideas to get you started:
 
 ### 기술 스택 Stack
 <div style="display: flex; align-items: center;">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="redis" src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+    <img alt="redis" src="https://img.shields.io/badge/redis-DC382D.svg?&style=flat-square&logo=redis&logoColor=white"/>
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img alt="amazon ec2" src="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
-    <img alt="amazon rds" src="https://img.shields.io/badge/amazon rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white"/>
-    <img alt="amazon s3" src="https://img.shields.io/badge/amazon s3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white"/>
-    <img alt="amazon route53" src="https://img.shields.io/badge/amazon route53-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+    <img alt="amazon ec2" src="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white"/>
+    <img alt="amazon rds" src="https://img.shields.io/badge/amazon rds-527FFF.svg?&style=flat-square&logo=amazonrds&logoColor=white"/>
+    <img alt="amazon s3" src="https://img.shields.io/badge/amazon s3-569A31.svg?&style=flat-square&logo=amazons3&logoColor=white"/>
+    <img alt="amazon route53" src="https://img.shields.io/badge/amazon route53-8C4FFF.svg?&style=flat-square&logo=amazonroute53&logoColor=white"/>
 </div>  
 
 <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/GitHub-%2088FF.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-</div>
+    <img src="https://img.shields.io/badge/GitHub-%2088FF.svg?style=flat-square&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">
 
-<img alt="swagger" src ="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
+<div style="display: flex; align-items: center;">
+    <img alt="postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+    <img alt="swagger" src ="https://img.shields.io/badge/swagger-85EA2D.svg?&style=flat-square&logo=swagger&logoColor=white"/>
+    <img alt="notion" src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</div>
 
 ### 프로젝트 Project
 - [와우상점](https://github.com/UMC-WOWMARKET/WOWMARKET-Server) - 대학교 굿즈 공동구매 플랫폼 (23.06 ~ 23.08, 23.09 ~ 24.01)
