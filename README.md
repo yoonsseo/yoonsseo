@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ### 프로젝트 Project
 - [와우상점](https://github.com/UMC-WOWMARKET/WOWMARKET-Server) - 대학교 굿즈 공동구매 플랫폼 (23.06 ~ 23.08, 23.09 ~ 24.01)
 - [어코드 ACODE](https://github.com/team-acode/acode-server) - 향을 새로이 풀어내다, 나를 위한 향을 찾아주는 프레그런스 큐레이션 플랫폼 (23.10 ~ 24.02)
+- [스웨기-스웨거 Swaggy-Swagger](https://github.com/Swaggy-Swagger) - Swagger UX 개선 라이브러리, 2024 공개 SW 개발자 대회 동상 
 
 ### 활동 Experience 
 - 대학생IT연합동아리 [UMC](https://github.com/HIUMC)
